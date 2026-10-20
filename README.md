@@ -26,6 +26,6 @@ Built for the **Google GDG & Fetch.ai Hackathon**.
 
 ## 📜 Submission Details
 
-* **Team Name:** [AgentX2]
+* **Team Name:** AgentX2
 * **Track:** AI Agents / Fetch.ai ASI:One Challenge
 * **Agentverse Agent Address:** `agent1q...`
