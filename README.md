@@ -28,4 +28,4 @@ Built for the **Google GDG & Fetch.ai Hackathon**.
 
 * **Team Name:** AgentX2
 * **Track:** AI Agents / Fetch.ai ASI:One Challenge
-* **Agentverse Agent Address:** `agent1q...`
+* **Agentverse Agent Address:** `agent1qv0kk4xl7d0r2787yg5j6dcwzsxtudwtprcqqmleg2e8qu78laueqrf2cvu`
